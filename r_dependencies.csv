@@ -1,0 +1,8 @@
+dependency,role,requirement
+R,core,base and stats simulation and formula helpers
+MASS,core,galaxies example dataset
+plyr,core,R sampler and historical density cluster counts
+ggplot2,plotting,prior_study entry point plots
+Rcpp,optional,explicit C++ backend compilation
+C++ compiler toolchain,optional,required by Rcpp backend
+BNPmix,optional,separate package-based mixture examples
